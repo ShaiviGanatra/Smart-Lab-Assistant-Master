@@ -1,0 +1,30 @@
+https://coolors.co/f2545b-1c0f13-06d6a0-f3f7f0-1b9aaa
+
+
+https://www.webpagefx.com/web-design/hex-to-rgb/
+
+White smoke :243,247,240
+Sunset orange :242,84,91
+Caput Mortoon: 81,29,31
+Dark Maroon :28,15,19
+Caribbean Green :6,214,160
+Light Sea Green :27,154,170
+Midnight Green :14,78,92
+Purple Pizzazz :233,82,222 
+Dark Purple: 64,23,61
+Iris:5762D5
+87,98,213
+Yankees Blue: 181B3B
+24,27,59
+Palm Leaf: 6EA03A
+110,160,58
+Dark jungle green: 1C280F
+28,40,15
+burnt orange: DA5000
+218,80,0
+dark candy apple red: A30000
+163,0,0
+login blue: same as yankee blue
+aqua marine: 6FFFE9
+111,255,233
+
